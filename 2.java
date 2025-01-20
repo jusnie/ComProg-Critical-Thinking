@@ -26,7 +26,7 @@ import java.util.Scanner;
             System.out.println(" o--------o");
             System.out.println(" Too heavy.");
         } else if (volume > 0.1) {
-            System.out.println(" ---------o"); 
+            System.out.println(" o---------o"); 
             System.out.println(" Too large.");
             
         } else {
